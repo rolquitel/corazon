@@ -1,0 +1,21 @@
+DS 1
+
+(8, 6): 0.9021739130434783,
+(8, 6, 10): 0.907608695652174,
+(8, 6, 10, 6): 0.907608695652174,
+Max acc: 0.875 Max config: (12, 6, 12) for dataset 1
+Max acc: 0.907608695652174 Max config: (6, 8, 12, 8, 8) for dataset 1
+
+
+
+DS2
+
+Max acc: 0.7849462365591398 Max config: (12, 8) for dataset 2
+Max acc: 0.7956989247311828 Max config: (6, 8, 12) for dataset 2
+
+
+DS3
+Max acc: 0.85 Max config: (12, 8, 10) for dataset 3
+
+DS4
+Max acc: 0.8597339782345829 Max config: (8, 12, 12, 10) for dataset 4
